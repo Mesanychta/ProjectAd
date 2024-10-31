@@ -50,7 +50,7 @@ const songs = [
     },
     {
         path: 'assets/f5.mp3',
-        displayName: 'I will keep on searching ',
+        displayName: 'I will keep on fighting ',
         cover: 'assets/f5.png',
         artist: 'Til i no longer can',
         bg: 'assets/f5.jpg',
@@ -72,16 +72,16 @@ const songs = [
 {
         path: 'assets/f10.mp3',
         displayName: 'Be strong, girl',
-        cover: 'assets/f10.png',
+        cover: 'assets/f9.png',
         artist: 'Yet its okay to take break once in a while..',
-        bg: 'assets/f10.jpg',
+        bg: 'assets/f9.jpg',
     },
     {
         path: 'assets/f9.mp3',
-        displayName: 'If you are gonna stay',
-        cover: 'assets/f9.png',
-        artist: 'I just gotta know',
-        bg: 'assets/f9.jpg',
+        displayName: 'I want you',
+        cover: 'assets/f10.png',
+        artist: 'more than any blue sky!',
+        bg: 'assets/f10.jpg',
     },
 
 ];
